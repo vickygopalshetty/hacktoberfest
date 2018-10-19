@@ -23,6 +23,11 @@
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
+#### Name: [VIVEK G](https://github.com/vickygopalshetty)
+- Place:dabugaon ,nabarngpur,odisha
+- Bio: student
+- GitHub: [Shetty](https://github.com/vickygopalshetty)
+
 #### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
